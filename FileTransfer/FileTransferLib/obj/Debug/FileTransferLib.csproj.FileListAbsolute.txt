@@ -1,0 +1,15 @@
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\FileTransferLib.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\FileTransferLib.pdb
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\Edward.BLL.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\Edward.DAL.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\Edward.DBHelper.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\Edward.Framework.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\log4net.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\DropDownCheckList.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\Aspose.Cells.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\Ext.Net.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\Newtonsoft.Json.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\bin\Debug\Ext.Net.Utilities.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\obj\Debug\FileTransferLib.dll
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\obj\Debug\FileTransferLib.pdb
+F:\教育局文件传输系统\FileTransfer\FileTransfer\FileTransferLib\obj\Debug\FileTransferLib.csprojResolveAssemblyReference.cache
